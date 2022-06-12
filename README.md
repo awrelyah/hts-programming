@@ -1,1 +1,1 @@
-# hts-programming
+# hackthissite first two programming exercises
